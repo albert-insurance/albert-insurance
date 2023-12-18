@@ -34,7 +34,6 @@ section {
     background-image: url(./img/albertinsbg.png);
     background-size: cover;
     color: white;
-    min-height: 80vh;
 }
 
 #whatwedo p{
